@@ -7,10 +7,10 @@
 ![](https://github.com/rfyiamcool/rfyiamcool/blob/master/header.png)
 
 <a href="https://github.com/reesun">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=reesun&show_icons=true&count_private=true" />
+  <img align="left" hight="190px" width="500px" src="https://github-readme-stats.vercel.app/api?username=reesun&show_icons=true&count_private=true" />
 </a>
 <a href="https://github.com/reesun">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reesun&layout=compact&langs_count=10&hide=html,javascript,css,freemarker" />
+  <img align="right" hight="190px" width="500px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=reesun&layout=compact&langs_count=10&hide=html,javascript,css,freemarker" />
 </a>
 
 <!--
